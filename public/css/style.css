@@ -40,8 +40,9 @@ i{
 .w3-content {
     margin-top: 1px;
 
-    
+ 
 }
+
 .sidebar{
     background-color: rgb(201, 77, 77);
     width: 100px;
@@ -56,4 +57,16 @@ footer{
     padding: 15px;
     position: static;
     bottom: 0;
+}
+.butt{
+    width: 70%;
+    display: block;
+    margin: auto;
+    background-color: aliceblue;
+}
+.up{
+    display: none;
+}
+#qrc{
+    display: none;
 }
