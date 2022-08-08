@@ -5,14 +5,17 @@
     position: fixed;
     width: 250px; */
 /* } */
-/* .card{ */
-    /* height: 315px; */
+.card{
+    background-color: rgb(136, 135, 135);
     
-/* } */
+}
 /* p{ */
     /* overflow: scroll; */
 /* }
  */
 .container{
     /* margin-left: 30px; */
+}
+body{
+    background-color: rgb(211, 208, 208);
 }
