@@ -11,6 +11,7 @@ app.get("/",(req,res)=>{
 })
 app.get("/buynow",(req,res)=>{
     res.render("buynow");
+    
 })
 app.listen(port,()=>{
     console.log("Connected...");
