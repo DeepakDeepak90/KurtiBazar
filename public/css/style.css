@@ -22,8 +22,13 @@ body{
 }
 .loc{
     display: flex;
-    background-color: rgb(163, 163, 161);
+    background-color:black;
     flex-direction: row;
+    color: beige;
+       
+    /* position:; */
+    margin-left: 50px;
+    /* width: fit-content; */
 }
 i{
     width: 30px;
