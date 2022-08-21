@@ -13,6 +13,10 @@ app.get("/buynow",(req,res)=>{
     res.render("buynow");
     
 })
+app.get("/kurties",(req,res)=>{
+    res.render("kurties");
+    
+})
 app.listen(port,()=>{
     console.log("Connected...");
 })
