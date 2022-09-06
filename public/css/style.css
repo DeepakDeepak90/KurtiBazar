@@ -13,13 +13,10 @@
 /* p{ */
     /* overflow: scroll; */
 /* }
- */
-.container{
-    /* margin-left: 30px; */
-}
+ 
 body{
     /* background-color: rgb(211, 208, 208); */
-}
+
 .loc{
     display: flex;
     background-color:black;
@@ -158,9 +155,7 @@ footer{
     margin-top: 6px;
     padding-left: auto;
 }
-#nav-two{
 
-}
 ul{
     margin-bottom: 0;
 }
